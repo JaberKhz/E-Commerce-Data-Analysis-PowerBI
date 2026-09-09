@@ -19,7 +19,8 @@ The project showcases skills in **Relational Database Modeling**, **Data Cleanin
 
 ### 1. Data Modeling (نمذجة البيانات)
 The foundation of the project relies on a robust relational database. I designed the schema connecting `orders`, `customers`, `products`, `sellers`, `order_items`, `payments`, `shipments`, and `reviews`.
-<img width="1624" height="734" alt="01_Database_ER_Diagram png" src="https://github.com/user-attachments/assets/4d99d9c8-c705-4cee-84df-3d44311af47d" />
+<img width="973" height="747" alt="01_Database_ER_Diagram" src="https://github.com/user-attachments/assets/42e3716c-a72e-42f4-a2dd-ac7e5eeac019" />
+
 
 *(Note: A detailed view of the schema is also available in `01_Database_ER_Diagram.png.PNG`)*
 
